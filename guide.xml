@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Cable News Network (CNN">
+    <display-name lang="en">Cable News Network (CNN</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Syfy (East) (SYFY)">
+    <display-name lang="en">Syfy (East) (SYFY)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="USA Network (East) (USA)">
+    <display-name lang="en">USA Network (East) (USA)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Turner Network Television (East) (TNT)">
+    <display-name lang="en">Turner Network Television (East) (TNT)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="AMC (East) (AMC">
+    <display-name lang="en">AMC (East) (AMC</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="FXX (East) (FXX)">
+    <display-name lang="en">FXX (East) (FXX)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Cable Satellite Public Affairs Network (CSPAN">
+    <display-name lang="en">Cable Satellite Public Affairs Network (CSPAN</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="msnbc (MSNBC)">
+    <display-name lang="en">msnbc (MSNBC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="HBO (East) (HBO)">
+    <display-name lang="en">HBO (East) (HBO)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Cinemax (East) (MAX)">
+    <display-name lang="en">Cinemax (East) (MAX)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Encore (East) (ENC)">
+    <display-name lang="en">Encore (East) (ENC)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="Showtime (East) (SHO)">
+    <display-name lang="en">Showtime (East) (SHO)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+</tv>
